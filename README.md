@@ -5,5 +5,11 @@ CKTI is a domain-specific compiler that lowers CUDA kernels to Triton-IR and pro
 The example folder showcases some demonstrations. If you have any questions, please contact us.
 
 ```
-ACM International Conference on Supercomputing 2026.
+@inproceedings{shi2026ckti,
+  title={CKTI: A Domain-Specific Compiler for Lowering CUDA Kernels to Triton-IR},
+  author={Shi, Changqing and Chen, Rui and Sun, Yufei and Sui, Yicheng and Zhang, Junyu and Xie, Yudong and Wang, Mingda and Ming, Shuangpeng and Zhang, Shuo and Zhang, Yuzhi},
+  booktitle={Proceedings of the 40th ACM International Conference on Supercomputing},
+  pages={132--144},
+  year={2026}
+}
 ```
